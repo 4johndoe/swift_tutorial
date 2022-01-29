@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		43CB14D227A5DD1700623203 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CB14D127A5DD1700623203 /* HexagonParameters.swift */; };
+		43CB14D427A5E0FD00623203 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CB14D327A5E0FD00623203 /* BadgeBackground.swift */; };
 		43D601B327A18CC5004D2BF6 /* tutorial_swift_uiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D601B227A18CC5004D2BF6 /* tutorial_swift_uiApp.swift */; };
 		43D601B527A18CC5004D2BF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D601B427A18CC5004D2BF6 /* ContentView.swift */; };
 		43D601B727A18CC6004D2BF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43D601B627A18CC6004D2BF6 /* Assets.xcassets */; };
@@ -25,6 +26,7 @@
 
 /* Begin PBXFileReference section */
 		43CB14D127A5DD1700623203 /* HexagonParameters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HexagonParameters.swift; sourceTree = "<group>"; };
+		43CB14D327A5E0FD00623203 /* BadgeBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeBackground.swift; sourceTree = "<group>"; };
 		43D601AF27A18CC5004D2BF6 /* tutorial swift ui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tutorial swift ui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		43D601B227A18CC5004D2BF6 /* tutorial_swift_uiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tutorial_swift_uiApp.swift; sourceTree = "<group>"; };
 		43D601B427A18CC5004D2BF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 				43D601D627A47F06004D2BF6 /* Landmarks */,
 				43D601D527A47EFB004D2BF6 /* Helpers */,
 				43D601B427A18CC5004D2BF6 /* ContentView.swift */,
+				43CB14D327A5E0FD00623203 /* BadgeBackground.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -215,6 +218,7 @@
 				43CB14D227A5DD1700623203 /* HexagonParameters.swift in Sources */,
 				43D601D027A3232B004D2BF6 /* LandmarkList.swift in Sources */,
 				43D601D227A32649004D2BF6 /* LandmarkDetail.swift in Sources */,
+				43CB14D427A5E0FD00623203 /* BadgeBackground.swift in Sources */,
 				43D601C127A1BBFA004D2BF6 /* CircleImage.swift in Sources */,
 				43D601C727A1CC3E004D2BF6 /* Landmark.swift in Sources */,
 				43D601CE27A1DB97004D2BF6 /* LandmarkRow.swift in Sources */,
