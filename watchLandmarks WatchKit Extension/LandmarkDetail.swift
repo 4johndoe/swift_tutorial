@@ -14,6 +14,7 @@ struct LandmarkDetail: View {
     var landmarkIndex: Int {
         modelData.landmarks.firstIndex(where: { $0.id == landmark.id })!
     }
+    
     var body: some View {
         ScrollView {
             VStack {

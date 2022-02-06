@@ -55,6 +55,9 @@
 		43BF537327B02D200005290C /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D601CF27A3232B004D2BF6 /* LandmarkList.swift */; };
 		43BF537427B02D200005290C /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43D601C627A1CC3D004D2BF6 /* Landmark.swift */; };
 		43BF537A27B02E2B0005290C /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BF537927B02E2B0005290C /* LandmarkDetail.swift */; };
+		43BF537B27B0338C0005290C /* hikeData.json in Resources */ = {isa = PBXBuildFile; fileRef = 43CB14DC27A86EA800623203 /* hikeData.json */; };
+		43BF537C27B0338C0005290C /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 43D601C427A1CC15004D2BF6 /* landmarkData.json */; };
+		43BF537D27B033FD0005290C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43D601B627A18CC6004D2BF6 /* Assets.xcassets */; };
 		43CB14D227A5DD1700623203 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CB14D127A5DD1700623203 /* HexagonParameters.swift */; };
 		43CB14D427A5E0FD00623203 /* BadgeBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CB14D327A5E0FD00623203 /* BadgeBackground.swift */; };
 		43CB14D627A6BA4200623203 /* BadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43CB14D527A6BA4200623203 /* BadgeSymbol.swift */; };
@@ -555,7 +558,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				43BF536627B02C380005290C /* Preview Assets.xcassets in Resources */,
+				43BF537C27B0338C0005290C /* landmarkData.json in Resources */,
+				43BF537B27B0338C0005290C /* hikeData.json in Resources */,
 				43BF536327B02C380005290C /* Assets.xcassets in Resources */,
+				43BF537D27B033FD0005290C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
