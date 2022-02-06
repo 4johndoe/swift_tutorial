@@ -7,12 +7,12 @@
 		<key>MacLandmarks.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>2</integer>
+			<integer>0</integer>
 		</dict>
 		<key>tutorial swift ui.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 		<key>watchLandmarks (Complication).xcscheme_^#shared#^_</key>
 		<dict>
@@ -27,7 +27,20 @@
 		<key>watchLandmarks.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>43BF532027B01EB20005290C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>43D601AE27A18CC5004D2BF6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
