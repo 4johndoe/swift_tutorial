@@ -16,5 +16,9 @@ struct tutorial_swift_uiApp: App {
             ContentView()
                 .environmentObject(modelData)
         }
+        
+        #if os(watchOS)
+        WKNotificationScene(controller: NotificationController.self, category: "LandmarkNear")
+        #endif
     }
 }
